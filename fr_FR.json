@@ -1,12 +1,12 @@
 {
-  "self_submenu" : "Self",
-  "weapon_submenu": "Weapon",
-  "vehicle_submenu" : "Vehicle",
-  "network_submenu" : "Network",
+  "self_submenu" : "Soi",
+  "weapon_submenu": "Arme",
+  "vehicle_submenu" : "Vehicule",
+  "network_submenu" : "Reseaux",
   "teleport_submenu" : "Teleport",
   "recovery_submenu" : "Recovery",
   "protection_submenu" : "Protection",
   "miscellaneous_submenu" : "Miscellaneous",
   "scriptHookV_submenu" : "ScriptHookV",
-  "settings_submenu" : "Settings"
+  "settings_submenu" : "Parametres"
 }
