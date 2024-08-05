@@ -9,4 +9,7 @@
   "miscellaneous_submenu" : "Miscellaneous",
   "scriptHookV_submenu" : "ScriptHookV",
   "settings_submenu" : "Parametres"
+
+  "god_mod" : "Invincible",
+  "god_mode_desc" : "Devenir Immortel"
 }
