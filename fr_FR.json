@@ -9,15 +9,11 @@
   "miscellaneous_submenu" : "Miscellaneous",
   "scriptHookV_submenu" : "ScriptHookV",
   "settings_submenu" : "Parametres",
-
-  "animation_submenu" : "Animation",
-
-  
+  "animation_submenu" : "Animation", 
   "outfit_submenu" : "Appareance",
   "save" : "saved_submenu",
   "save_outfits" : "Sauvegarder",
   "outifts_load_separator" : "Appareance",
-
   "god_mod" : "Invincible",
   "god_mode_desc" : "Devenir Immortel",
   "invisible_desc" : "Devenir Invisible",
