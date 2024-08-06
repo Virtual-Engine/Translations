@@ -73,6 +73,10 @@
   "no_clip_speed_desc" : "",
   "no_clip_disable_collision" : "Disable Collision",
   "no_clip_disable_collision_desc" : "",
+  "slide_run" : "Slide run",
+  "slide_run_desc" : "",
+  "swim_in_air" : "Nager dans les aires",
+  "swim_in_air_desc" : "",
   "god_mod" : "Invincible",
   "god_mode_desc" : "Devenir Immortel",
   "invisible_desc" : "Devenir Invisible"
