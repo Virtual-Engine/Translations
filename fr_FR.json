@@ -16,6 +16,9 @@
   "save" : "saved_submenu",
   "save_outfits" : "Sauvegarder",
   "outifts_load_separator" : "Appareance",
+  "scenario_submenu" : "Scenario",
+  "stop_scenario" : "Stop Scenario",
+  "stop_scenario_desc" : "Permet de stopper le scenario en cours",
   "god_mod" : "Invincible",
   "god_mode_desc" : "Devenir Immortel",
   "invisible_desc" : "Devenir Invisible"
