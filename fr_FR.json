@@ -68,6 +68,7 @@
   "no_clip_transparent_desc" : "",
   "no_clip_spin" : "Spin",
   "no_clip_spin_desc" : "",
+  "no_clip_speed" : "Vitesse",
   "god_mod" : "Invincible",
   "god_mode_desc" : "Devenir Immortel",
   "invisible_desc" : "Devenir Invisible"
