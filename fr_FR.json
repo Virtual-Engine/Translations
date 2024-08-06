@@ -63,6 +63,11 @@
   "no_clip" : "No Clip",
   "no_clip_desc" : "",
   "no_clip_transparent" : "Transparent",
+  "no_clip_transparent_desc" : "",
+  "no_clip_rotation" : "Rotation",
+  "no_clip_transparent_desc" : "",
+  "no_clip_spin" : "Spin",
+  "no_clip_spin_desc" : "",
   "god_mod" : "Invincible",
   "god_mode_desc" : "Devenir Immortel",
   "invisible_desc" : "Devenir Invisible"
