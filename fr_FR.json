@@ -19,6 +19,7 @@
   "scenario_submenu" : "Scenario",
   "stop_scenario" : "Stop Scenario",
   "stop_scenario_desc" : "Permet de stopper le scenario en cours",
+  "particle_submenu" : "Particule",
   "god_mod" : "Invincible",
   "god_mode_desc" : "Devenir Immortel",
   "invisible_desc" : "Devenir Invisible"
