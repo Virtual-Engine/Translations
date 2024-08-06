@@ -59,6 +59,7 @@
   "particle_left_food_desc" : "Permet d'avoir une particule sur le pied gauche de votre ped",
   "particle_scale" : "Taille",
   "particle_scale_desc" : "Permet de modifier la taille des particules",
+  "movement_submenu": "Mouvement",
   "god_mod" : "Invincible",
   "god_mode_desc" : "Devenir Immortel",
   "invisible_desc" : "Devenir Invisible"
