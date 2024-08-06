@@ -83,6 +83,7 @@
   "ninja_jump_desc" : "",
   "beast_jump" : "Beast Saut",
   "beast_jump_desc" : "",
+  "movements_separator" : "mouvements",
   "god_mod" : "Invincible",
   "god_mode_desc" : "Devenir Immortel",
   "invisible_desc" : "Devenir Invisible"
