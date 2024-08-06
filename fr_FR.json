@@ -10,6 +10,13 @@
   "scriptHookV_submenu" : "ScriptHookV",
   "settings_submenu" : "Parametres"
 
+  "animation_submenu" : "Animation",
+
+  
+  "outfit_submenu" : "Appareance",
+  "save" : "saved_submenu",
+  "save_outfits" : "Sauvegarder",
+
   "god_mod" : "Invincible",
   "god_mode_desc" : "Devenir Immortel",
   "invisible_desc" : "Devenir Invisible"
