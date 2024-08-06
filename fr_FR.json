@@ -60,6 +60,7 @@
   "particle_scale" : "Taille",
   "particle_scale_desc" : "Permet de modifier la taille des particules",
   "movement_submenu": "Mouvement",
+  "no_clip_submenu" : "No Clip",
   "no_clip" : "No Clip",
   "no_clip_desc" : "",
   "no_clip_transparent" : "Transparent",
