@@ -10,6 +10,8 @@
   "scriptHookV_submenu" : "ScriptHookV",
   "settings_submenu" : "Parametres",
   "animation_submenu" : "Animation", 
+  "stop_animation" : "Stop Aniamtion",
+  "stop_animation_desc" : "Permet De stopper l'animation en cours",
   "outfit_submenu" : "Appareance",
   "save" : "saved_submenu",
   "save_outfits" : "Sauvegarder",
