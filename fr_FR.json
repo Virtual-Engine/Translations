@@ -10,6 +10,7 @@
   "scriptHookV_submenu" : "ScriptHookV",
   "settings_submenu" : "Parametres",
   "deceive_online_control_shv" : "Tromper Controle Online",
+  "deceive_online_control_shv" : "Permet de charger et joue avec les asi en ligne",
   "open_folder_shv" : "Ouvrir Dossier",
   "open_folder_shv_desc" : "",
   "separator_asi_shv" : "asi",
