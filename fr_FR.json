@@ -13,7 +13,7 @@
   "stop_animation" : "Stop Aniamtion",
   "stop_animation_desc" : "Permet De stopper l'animation en cours",
   "outfit_submenu" : "Appareance",
-  "save" : "saved_submenu",
+  "saved_submenu" : "Sauvegarder",
   "save_outfits" : "Sauvegarder",
   "outifts_load_separator" : "Appareance",
   "face_outfits" : "Visage",
