@@ -91,5 +91,9 @@
   "movements_separator" : "mouvements",
   "god_mod" : "Invincible",
   "god_mode_desc" : "Devenir Immortel",
-  "invisible_desc" : "Devenir Invisible"
+  "invisible_desc" : "Devenir Invisible",
+  "ui_submenu_settings" : "UI",
+  "separator_settings" : "parametres",
+  "rebuild_cache_settings" : "Reconstruire le cache",
+  "rebuild_cache_desc_settings" : "permet de recharger les fonction de gta"
 }
