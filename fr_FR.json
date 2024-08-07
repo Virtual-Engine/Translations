@@ -11,6 +11,7 @@
   "settings_submenu" : "Parametres",
   "deceive_online_control_shv" : "Tromper Controle Online",
   "open_folder_shv" : "Ouvrir Dossier",
+  "open_folder_shv_desc" : "",
   "separator_asi_shv" : "asi",
   "animation_submenu" : "Animation", 
   "stop_animation" : "Stop Aniamtion",
