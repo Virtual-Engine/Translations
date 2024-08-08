@@ -96,4 +96,21 @@
   "separator_settings" : "parametres",
   "rebuild_cache_settings" : "Reconstruire le cache",
   "rebuild_cache_desc_settings" : "Permet de recharger les fonction de gta"
+  "zeus_story_cs" : "Zeus Histoire",
+  "zeus_online_cs" : "Zeus Online",
+  "play_gta_online_cs" : "Jouer a GTA Online avec Zeus",
+  "exiting_gta_online_cs" : "Quitter GTA Online avec Zeus",
+  "quit_gta_cs" : "Quitter GTA V avec Zeus",
+  "play_cs" : "Jouer avec Zeus",
+  "joining_a_new_session_cs" : "Rejoindre une nouvelle session avec Zeus",
+  "closed_friend_session_cs" : "Closed Friend Session avec Zeus",
+  "quit_to_desktop_cs" : "Quitter pour arrêter avec Zeus",
+  "join_a_crew_only_session_cs" : "Rejoindre une session reserve au crew avec Zeus",
+  "online_cs" : "Online avec Zeus",
+  "join_an_invite_only_session_cs" : "Rejoindre une session sur invitation avec Zeus",
+  "loading_story_mode_cs" : "Chargement du mode histoire avec Zeus",
+  "join_a_crew_session_cs" : "Rejoindre une session crew avec Zeus",
+  "join_a_closed_crew_session_cs" : "Rejoindre une session ferme de crew",
+  "join_a_solo_session_cs" : "Rejoindre une session solo avec Zeus",
+  "join_a_friends_only_session_cs" : "Rejoindre une session reserve aux amis avec Zeus"
 }
